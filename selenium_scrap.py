@@ -17,3 +17,4 @@ for x in p_element:
         if dou.text:
             print("Paragrafo: " + dou.text)
     driver2.quit()
+driver.quit()
